@@ -1,0 +1,115 @@
+{
+  "id": "sem_2026_fall",
+  "name": {
+    "en": "Fall 2026",
+    "ar": "خريف ٢٠٢٦"
+  },
+  "start": "2026-08-17",
+  "end": "2026-12-20",
+  "absenceReasons": [
+    {
+      "value": "student_health",
+      "side": "student",
+      "label": {
+        "en": "Student health emergency",
+        "ar": "طارئ صحي لدى الطالب"
+      }
+    },
+    {
+      "value": "student_family",
+      "side": "student",
+      "label": {
+        "en": "Student family emergency",
+        "ar": "طارئ عائلي لدى الطالب"
+      }
+    },
+    {
+      "value": "student_technical",
+      "side": "student",
+      "label": {
+        "en": "Student technical difficulties",
+        "ar": "مشاكل تقنية لدى الطالب"
+      }
+    },
+    {
+      "value": "student_work",
+      "side": "student",
+      "label": {
+        "en": "Student work or school conflict",
+        "ar": "تعارض عمل أو دراسة لدى الطالب"
+      }
+    },
+    {
+      "value": "student_scheduling",
+      "side": "student",
+      "label": {
+        "en": "Student scheduling conflict",
+        "ar": "تعارض في مواعيد الطالب"
+      }
+    },
+    {
+      "value": "tutor_health",
+      "side": "tutor",
+      "label": {
+        "en": "Teacher health emergency",
+        "ar": "طارئ صحي لدى المعلّم"
+      }
+    },
+    {
+      "value": "tutor_family",
+      "side": "tutor",
+      "label": {
+        "en": "Teacher family emergency",
+        "ar": "طارئ عائلي لدى المعلّم"
+      }
+    },
+    {
+      "value": "tutor_technical",
+      "side": "tutor",
+      "label": {
+        "en": "Teacher technical difficulties",
+        "ar": "مشاكل تقنية لدى المعلّم"
+      }
+    },
+    {
+      "value": "tutor_work",
+      "side": "tutor",
+      "label": {
+        "en": "Teacher work or school conflict",
+        "ar": "تعارض عمل أو دراسة لدى المعلّم"
+      }
+    },
+    {
+      "value": "tutor_scheduling",
+      "side": "tutor",
+      "label": {
+        "en": "Teacher scheduling conflict",
+        "ar": "تعارض في مواعيد المعلّم"
+      }
+    },
+    {
+      "value": "tutor_unresponsive",
+      "side": "tutor",
+      "label": {
+        "en": "Teacher did not reply",
+        "ar": "عدم استجابة المعلّم"
+      }
+    },
+    {
+      "value": "tutor_cancelled",
+      "side": "tutor",
+      "label": {
+        "en": "Teacher cancelled at the last minute",
+        "ar": "إلغاء المعلّم في اللحظة الأخيرة"
+      }
+    },
+    {
+      "value": "tutor_noshow",
+      "side": "tutor",
+      "label": {
+        "en": "Teacher did not show up",
+        "ar": "عدم حضور المعلّم"
+      }
+    }
+  ]
+}

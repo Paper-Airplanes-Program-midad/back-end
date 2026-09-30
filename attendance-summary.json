@@ -1,0 +1,25 @@
+{
+  "totalSessions": 8,
+  "attended": 7,
+  "missed": 1,
+  "rate": 88,
+  "streak": 2,
+  "weeks": [
+    {
+      "week": "W0",
+      "status": "attended"
+    },
+    {
+      "week": "W1",
+      "status": "missed"
+    },
+    {
+      "week": "W2",
+      "status": "attended"
+    },
+    {
+      "week": "W3",
+      "status": "pending"
+    }
+  ]
+}

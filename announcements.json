@@ -1,0 +1,150 @@
+{
+  "templates": [
+    {
+      "id": "tpl_1",
+      "name": {
+        "en": "Cohort start",
+        "ar": "بدء الفوج"
+      },
+      "subject": {
+        "en": "Your lessons start next week",
+        "ar": "دروسك تبدأ الأسبوع القادم"
+      },
+      "body": {
+        "en": "Hello, your tutor has been matched and lessons begin next week. Please confirm your weekly availability in the portal.",
+        "ar": "مرحبًا، تمت مطابقتك مع معلّم وتبدأ الدروس الأسبوع القادم. يرجى تأكيد تفرغك الأسبوعي في البوابة."
+      }
+    },
+    {
+      "id": "tpl_2",
+      "name": {
+        "en": "Attendance reminder",
+        "ar": "تذكير بالحضور"
+      },
+      "subject": {
+        "en": "Please log this week's attendance",
+        "ar": "يرجى تسجيل حضور هذا الأسبوع"
+      },
+      "body": {
+        "en": "This is a friendly reminder to confirm your attendance for this week so we can support you better.",
+        "ar": "تذكير ودّي بتأكيد حضورك لهذا الأسبوع حتى نتمكن من دعمك بشكل أفضل."
+      }
+    },
+    {
+      "id": "tpl_3",
+      "name": {
+        "en": "Exam window",
+        "ar": "موعد الامتحان"
+      },
+      "subject": {
+        "en": "Final exam window is open",
+        "ar": "فترة الامتحان النهائي مفتوحة"
+      },
+      "body": {
+        "en": "Your final exam window opens soon. Check the learning dashboard for your scheduled time in your local timezone.",
+        "ar": "تفتح فترة امتحانك النهائي قريبًا. راجع لوحة التعلّم لمعرفة موعدك بتوقيتك المحلي."
+      }
+    }
+  ],
+  "history": [
+    {
+      "id": "ann_muojqdmmd3nk",
+      "subject": {
+        "en": "Final exam window is open",
+        "ar": "فترة الامتحان النهائي مفتوحة"
+      },
+      "audience": "students",
+      "sentUtc": "2026-09-30T20:16:51.838Z",
+      "recipients": 63,
+      "openRate": 0
+    },
+    {
+      "id": "ann_muojq1wx6kex",
+      "subject": {
+        "en": "Please log this week's attendance",
+        "ar": "يرجى تسجيل حضور هذا الأسبوع"
+      },
+      "audience": "students",
+      "sentUtc": "2026-09-30T20:16:36.657Z",
+      "recipients": 63,
+      "openRate": 0
+    },
+    {
+      "id": "ann_mu8jq0fyd2xy",
+      "subject": {
+        "en": "Please log this week's attendance",
+        "ar": "يرجى تسجيل حضور هذا الأسبوع"
+      },
+      "audience": "students",
+      "sentUtc": "2026-09-19T15:32:15.934Z",
+      "recipients": 63,
+      "openRate": 0
+    },
+    {
+      "id": "ann_mu8jpzkmau40",
+      "subject": {
+        "en": "Please log this week's attendance",
+        "ar": "يرجى تسجيل حضور هذا الأسبوع"
+      },
+      "audience": "students",
+      "sentUtc": "2026-09-19T15:32:14.806Z",
+      "recipients": 63,
+      "openRate": 0
+    },
+    {
+      "id": "ann_mtnb0c6eo6xa",
+      "subject": {
+        "en": "Final exam window is open",
+        "ar": "فترة الامتحان النهائي مفتوحة"
+      },
+      "audience": "students",
+      "sentUtc": "2026-09-04T18:45:11.462Z",
+      "recipients": 63,
+      "openRate": 0
+    },
+    {
+      "id": "ann_mtnb0a7wv8jg",
+      "subject": {
+        "en": "Final exam window is open",
+        "ar": "فترة الامتحان النهائي مفتوحة"
+      },
+      "audience": "students",
+      "sentUtc": "2026-09-04T18:45:08.924Z",
+      "recipients": 63,
+      "openRate": 0
+    },
+    {
+      "id": "ann_9",
+      "subject": {
+        "en": "Summer cohort welcome",
+        "ar": "ترحيب بفوج الصيف"
+      },
+      "audience": "students",
+      "sentUtc": "2026-08-01T09:00:00Z",
+      "recipients": 63,
+      "openRate": 78
+    },
+    {
+      "id": "ann_8",
+      "subject": {
+        "en": "Safeguarding refresher",
+        "ar": "تذكير بالحماية"
+      },
+      "audience": "tutors",
+      "sentUtc": "2026-07-18T09:00:00Z",
+      "recipients": 41,
+      "openRate": 86
+    },
+    {
+      "id": "ann_7",
+      "subject": {
+        "en": "Waiting list update",
+        "ar": "تحديث قائمة الانتظار"
+      },
+      "audience": "waitlist",
+      "sentUtc": "2026-07-05T09:00:00Z",
+      "recipients": 42,
+      "openRate": 64
+    }
+  ]
+}

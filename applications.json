@@ -1,0 +1,52 @@
+{
+  "stu_001": {
+    "userId": "stu_001",
+    "role": "student",
+    "status": "approved",
+    "submittedUtc": "2026-07-20T09:00:00Z",
+    "decidedUtc": "2026-07-22T10:00:00Z",
+    "decidedBy": "fac_002",
+    "reason": null,
+    "reference": "PA-APP-2026-1042"
+  },
+  "tut_007": {
+    "userId": "tut_007",
+    "role": "teacher",
+    "status": "approved",
+    "submittedUtc": "2026-07-20T09:00:00Z",
+    "decidedUtc": "2026-07-22T10:00:00Z",
+    "decidedBy": "fac_002",
+    "reason": null,
+    "reference": "PA-APP-2026-1042"
+  },
+  "stu_mtlwj3tbi1gy": {
+    "userId": "stu_mtlwj3tbi1gy",
+    "role": "student",
+    "status": "approved",
+    "submittedUtc": "2026-09-04T18:37:43.049Z",
+    "decidedUtc": "2026-09-04T18:38:29.172Z",
+    "decidedBy": "fac_002",
+    "reason": null,
+    "reference": "PA-APP-2026-1042"
+  },
+  "stu_mtrh4wbdhgeu": {
+    "userId": "stu_mtrh4wbdhgeu",
+    "role": "student",
+    "status": "approved",
+    "submittedUtc": "2026-09-07T19:21:30.834Z",
+    "decidedUtc": "2026-09-10T19:47:30.849Z",
+    "decidedBy": "fac_002",
+    "reason": null,
+    "reference": "PA-APP-2026-6541"
+  },
+  "stu_mtx9hkzam9mq": {
+    "userId": "stu_mtx9hkzam9mq",
+    "role": "student",
+    "status": "approved",
+    "submittedUtc": "2026-09-11T18:28:25.057Z",
+    "decidedUtc": "2026-09-19T16:00:34.871Z",
+    "decidedBy": "fac_002",
+    "reason": null,
+    "reference": "PA-APP-2026-3205"
+  }
+}

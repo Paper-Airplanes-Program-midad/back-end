@@ -1,0 +1,544 @@
+[
+  {
+    "id": "ses_l0a",
+    "week": 0,
+    "startUtc": "2026-08-04T15:00:00Z",
+    "endUtc": "2026-08-04T16:00:00Z",
+    "minutes": 60,
+    "level": "A2",
+    "unitNo": 2,
+    "topic": {
+      "en": "Shopping & money",
+      "ar": "التسوق والمال"
+    },
+    "notes": {
+      "en": "Prices, quantities, polite requests.",
+      "ar": "الأسعار والكميات وصيغ الطلب المهذبة."
+    },
+    "status": "completed",
+    "joinUrl": "",
+    "studentName": "Anas Almbark",
+    "tutorName": "Enas Salho",
+    "semester": "sem_2026_fall"
+  },
+  {
+    "id": "ses_l0b",
+    "week": 0,
+    "startUtc": "2026-08-06T15:00:00Z",
+    "endUtc": "2026-08-06T16:00:00Z",
+    "minutes": 60,
+    "level": "A2",
+    "unitNo": 2,
+    "topic": {
+      "en": "At the market — role play",
+      "ar": "في السوق — تمثيل أدوار"
+    },
+    "notes": {
+      "en": "Full shopping dialogue, twice, roles swapped.",
+      "ar": "حوار تسوق كامل مرتين مع تبديل الأدوار."
+    },
+    "status": "completed",
+    "joinUrl": "",
+    "studentName": "Anas Almbark",
+    "tutorName": "Enas Salho",
+    "semester": "sem_2026_fall"
+  },
+  {
+    "id": "ses_l0c",
+    "week": 0,
+    "startUtc": "2026-08-11T15:00:00Z",
+    "endUtc": "2026-08-11T16:00:00Z",
+    "minutes": 60,
+    "level": "A2",
+    "unitNo": 3,
+    "topic": {
+      "en": "Travel and directions",
+      "ar": "السفر والاتجاهات"
+    },
+    "notes": {
+      "en": "Prepositions of place, reading a small map.",
+      "ar": "حروف المكان وقراءة خريطة صغيرة."
+    },
+    "status": "completed",
+    "joinUrl": "",
+    "studentName": "Anas Almbark",
+    "tutorName": "Enas Salho",
+    "semester": "sem_2026_fall"
+  },
+  {
+    "id": "ses_l0d",
+    "week": 0,
+    "startUtc": "2026-08-13T15:00:00Z",
+    "endUtc": "2026-08-13T16:00:00Z",
+    "minutes": 50,
+    "level": "A2",
+    "unitNo": 3,
+    "topic": {
+      "en": "Asking for the way",
+      "ar": "السؤال عن الطريق"
+    },
+    "notes": {
+      "en": "Short connection drop — we finished ten minutes early.",
+      "ar": "انقطاع قصير للاتصال — أنهينا الدرس قبل عشر دقائق."
+    },
+    "status": "completed",
+    "joinUrl": "",
+    "studentName": "Anas Almbark",
+    "tutorName": "Enas Salho",
+    "semester": "sem_2026_fall"
+  },
+  {
+    "id": "ses_l1a",
+    "week": 1,
+    "startUtc": "2026-08-18T15:00:00Z",
+    "endUtc": "2026-08-18T16:00:00Z",
+    "minutes": null,
+    "level": "A2",
+    "unitNo": 4,
+    "topic": {
+      "en": "Health and the body",
+      "ar": "الصحة والجسم"
+    },
+    "notes": null,
+    "status": "missed",
+    "joinUrl": "",
+    "studentName": "Anas Almbark",
+    "tutorName": "Enas Salho",
+    "semester": "sem_2026_fall"
+  },
+  {
+    "id": "ses_l1b",
+    "week": 1,
+    "startUtc": "2026-08-20T15:00:00Z",
+    "endUtc": "2026-08-20T16:00:00Z",
+    "minutes": 60,
+    "level": "A2",
+    "unitNo": 4,
+    "topic": {
+      "en": "At the clinic",
+      "ar": "في العيادة"
+    },
+    "notes": {
+      "en": "Symptoms, booking an appointment by phone.",
+      "ar": "الأعراض وحجز موعد عبر الهاتف."
+    },
+    "status": "completed",
+    "joinUrl": "",
+    "studentName": "Anas Almbark",
+    "tutorName": "Enas Salho",
+    "semester": "sem_2026_fall"
+  },
+  {
+    "id": "ses_l2a",
+    "week": 2,
+    "startUtc": "2026-08-25T15:00:00Z",
+    "endUtc": "2026-08-25T16:00:00Z",
+    "minutes": 60,
+    "level": "A2",
+    "unitNo": 5,
+    "topic": {
+      "en": "Work and study",
+      "ar": "العمل والدراسة"
+    },
+    "notes": {
+      "en": "Job words, reading a short advert together.",
+      "ar": "مفردات العمل وقراءة إعلان قصير معًا."
+    },
+    "status": "completed",
+    "joinUrl": "",
+    "studentName": "Anas Almbark",
+    "tutorName": "Enas Salho",
+    "semester": "sem_2026_fall"
+  },
+  {
+    "id": "ses_l2b",
+    "week": 2,
+    "startUtc": "2026-08-27T15:00:00Z",
+    "endUtc": "2026-08-27T16:00:00Z",
+    "minutes": 45,
+    "level": "A2",
+    "unitNo": 5,
+    "topic": {
+      "en": "A job interview",
+      "ar": "مقابلة عمل"
+    },
+    "notes": {
+      "en": "Interview role-play; strong answers, shy start.",
+      "ar": "تمثيل مقابلة عمل؛ إجابات قوية وبداية خجولة."
+    },
+    "status": "completed",
+    "joinUrl": "",
+    "studentName": "Anas Almbark",
+    "tutorName": "Enas Salho",
+    "semester": "sem_2026_fall"
+  },
+  {
+    "id": "ses_l3a",
+    "week": 3,
+    "startUtc": "2026-09-01T15:00:00Z",
+    "endUtc": "2026-09-01T16:00:00Z",
+    "minutes": null,
+    "level": "A2",
+    "unitNo": 5,
+    "topic": {
+      "en": "Talking about experience",
+      "ar": "الحديث عن الخبرة"
+    },
+    "notes": null,
+    "status": "scheduled",
+    "joinUrl": "",
+    "studentName": "Anas Almbark",
+    "tutorName": "Enas Salho",
+    "semester": "sem_2026_fall"
+  },
+  {
+    "id": "ses_l3b",
+    "week": 3,
+    "startUtc": "2026-09-03T15:00:00Z",
+    "endUtc": "2026-09-03T16:00:00Z",
+    "minutes": null,
+    "level": "A2",
+    "unitNo": 6,
+    "topic": {
+      "en": "Plans for next year",
+      "ar": "خطط العام القادم"
+    },
+    "notes": null,
+    "status": "scheduled",
+    "joinUrl": "",
+    "studentName": "Anas Almbark",
+    "tutorName": "Enas Salho",
+    "semester": "sem_2026_fall"
+  },
+  {
+    "id": "ses_o0",
+    "week": 0,
+    "startUtc": "2026-08-13T12:30:00Z",
+    "endUtc": "2026-08-13T13:30:00Z",
+    "minutes": 60,
+    "level": "A1",
+    "unitNo": 6,
+    "topic": {
+      "en": "My family",
+      "ar": "عائلتي"
+    },
+    "notes": {
+      "en": "Family words, possessive adjectives.",
+      "ar": "مفردات العائلة وضمائر الملكية."
+    },
+    "status": "completed",
+    "joinUrl": "",
+    "studentName": "Omar Nasser",
+    "tutorName": "Enas Salho",
+    "semester": "sem_2026_fall"
+  },
+  {
+    "id": "ses_o1",
+    "week": 1,
+    "startUtc": "2026-08-20T12:30:00Z",
+    "endUtc": "2026-08-20T13:30:00Z",
+    "minutes": 60,
+    "level": "A1",
+    "unitNo": 7,
+    "topic": {
+      "en": "Around town",
+      "ar": "في المدينة"
+    },
+    "notes": {
+      "en": "Places in a town, there is / there are.",
+      "ar": "أماكن المدينة وصيغة يوجد."
+    },
+    "status": "completed",
+    "joinUrl": "",
+    "studentName": "Omar Nasser",
+    "tutorName": "Enas Salho",
+    "semester": "sem_2026_fall"
+  },
+  {
+    "id": "ses_o2",
+    "week": 2,
+    "startUtc": "2026-08-27T12:30:00Z",
+    "endUtc": "2026-08-27T13:30:00Z",
+    "minutes": 60,
+    "level": "A1",
+    "unitNo": 7,
+    "topic": {
+      "en": "Where I live",
+      "ar": "أين أسكن"
+    },
+    "notes": {
+      "en": "Describing his street and his neighbours.",
+      "ar": "وصف شارعه وجيرانه."
+    },
+    "status": "completed",
+    "joinUrl": "",
+    "studentName": "Omar Nasser",
+    "tutorName": "Enas Salho",
+    "semester": "sem_2026_fall"
+  },
+  {
+    "id": "ses_o3",
+    "week": 3,
+    "startUtc": "2026-09-03T12:30:00Z",
+    "endUtc": "2026-09-03T13:30:00Z",
+    "minutes": null,
+    "level": "A1",
+    "unitNo": 8,
+    "topic": {
+      "en": "The weather",
+      "ar": "الطقس"
+    },
+    "notes": null,
+    "status": "scheduled",
+    "joinUrl": "",
+    "studentName": "Omar Nasser",
+    "tutorName": "Enas Salho",
+    "semester": "sem_2026_fall"
+  },
+  {
+    "id": "ses_muoleejq8plc",
+    "week": 8,
+    "semester": "sem_2026_fall",
+    "startUtc": "2026-10-07T21:20:00.000Z",
+    "endUtc": "2026-10-07T22:20:00.000Z",
+    "minutes": null,
+    "level": "A2",
+    "unitNo": 0,
+    "topic": {
+      "en": "",
+      "ar": ""
+    },
+    "notes": null,
+    "status": "scheduled",
+    "joinUrl": "https://meet.google.com/cpu-upqc-fem",
+    "studentName": "Anas Almbark",
+    "tutorName": "Enas Salho",
+    "scheduleId": "sch_muoleeiuv6lg"
+  },
+  {
+    "id": "ses_muoleejqbrqx",
+    "week": 9,
+    "semester": "sem_2026_fall",
+    "startUtc": "2026-10-14T21:20:00.000Z",
+    "endUtc": "2026-10-14T22:20:00.000Z",
+    "minutes": null,
+    "level": "A2",
+    "unitNo": 0,
+    "topic": {
+      "en": "",
+      "ar": ""
+    },
+    "notes": null,
+    "status": "scheduled",
+    "joinUrl": "https://meet.google.com/cpu-upqc-fem",
+    "studentName": "Anas Almbark",
+    "tutorName": "Enas Salho",
+    "scheduleId": "sch_muoleeiuv6lg"
+  },
+  {
+    "id": "ses_muoleejqhxw8",
+    "week": 10,
+    "semester": "sem_2026_fall",
+    "startUtc": "2026-10-21T21:20:00.000Z",
+    "endUtc": "2026-10-21T22:20:00.000Z",
+    "minutes": null,
+    "level": "A2",
+    "unitNo": 0,
+    "topic": {
+      "en": "",
+      "ar": ""
+    },
+    "notes": null,
+    "status": "scheduled",
+    "joinUrl": "https://meet.google.com/cpu-upqc-fem",
+    "studentName": "Anas Almbark",
+    "tutorName": "Enas Salho",
+    "scheduleId": "sch_muoleeiuv6lg"
+  },
+  {
+    "id": "ses_muoleejqukxa",
+    "week": 11,
+    "semester": "sem_2026_fall",
+    "startUtc": "2026-10-28T22:20:00.000Z",
+    "endUtc": "2026-10-28T23:20:00.000Z",
+    "minutes": null,
+    "level": "A2",
+    "unitNo": 0,
+    "topic": {
+      "en": "",
+      "ar": ""
+    },
+    "notes": null,
+    "status": "scheduled",
+    "joinUrl": "https://meet.google.com/cpu-upqc-fem",
+    "studentName": "Anas Almbark",
+    "tutorName": "Enas Salho",
+    "scheduleId": "sch_muoleeiuv6lg"
+  },
+  {
+    "id": "ses_muoleejq0wzr",
+    "week": 12,
+    "semester": "sem_2026_fall",
+    "startUtc": "2026-11-04T22:20:00.000Z",
+    "endUtc": "2026-11-04T23:20:00.000Z",
+    "minutes": null,
+    "level": "A2",
+    "unitNo": 0,
+    "topic": {
+      "en": "",
+      "ar": ""
+    },
+    "notes": null,
+    "status": "scheduled",
+    "joinUrl": "https://meet.google.com/cpu-upqc-fem",
+    "studentName": "Anas Almbark",
+    "tutorName": "Enas Salho",
+    "scheduleId": "sch_muoleeiuv6lg"
+  },
+  {
+    "id": "ses_muoleejq8euu",
+    "week": 13,
+    "semester": "sem_2026_fall",
+    "startUtc": "2026-11-11T22:20:00.000Z",
+    "endUtc": "2026-11-11T23:20:00.000Z",
+    "minutes": null,
+    "level": "A2",
+    "unitNo": 0,
+    "topic": {
+      "en": "",
+      "ar": ""
+    },
+    "notes": null,
+    "status": "scheduled",
+    "joinUrl": "https://meet.google.com/cpu-upqc-fem",
+    "studentName": "Anas Almbark",
+    "tutorName": "Enas Salho",
+    "scheduleId": "sch_muoleeiuv6lg"
+  },
+  {
+    "id": "ses_muoleejq3dw3",
+    "week": 14,
+    "semester": "sem_2026_fall",
+    "startUtc": "2026-11-18T22:20:00.000Z",
+    "endUtc": "2026-11-18T23:20:00.000Z",
+    "minutes": null,
+    "level": "A2",
+    "unitNo": 0,
+    "topic": {
+      "en": "",
+      "ar": ""
+    },
+    "notes": null,
+    "status": "scheduled",
+    "joinUrl": "https://meet.google.com/cpu-upqc-fem",
+    "studentName": "Anas Almbark",
+    "tutorName": "Enas Salho",
+    "scheduleId": "sch_muoleeiuv6lg"
+  },
+  {
+    "id": "ses_muoleejq0er9",
+    "week": 15,
+    "semester": "sem_2026_fall",
+    "startUtc": "2026-11-25T22:20:00.000Z",
+    "endUtc": "2026-11-25T23:20:00.000Z",
+    "minutes": null,
+    "level": "A2",
+    "unitNo": 0,
+    "topic": {
+      "en": "",
+      "ar": ""
+    },
+    "notes": null,
+    "status": "scheduled",
+    "joinUrl": "https://meet.google.com/cpu-upqc-fem",
+    "studentName": "Anas Almbark",
+    "tutorName": "Enas Salho",
+    "scheduleId": "sch_muoleeiuv6lg"
+  },
+  {
+    "id": "ses_muoleejquayo",
+    "week": 16,
+    "semester": "sem_2026_fall",
+    "startUtc": "2026-12-02T22:20:00.000Z",
+    "endUtc": "2026-12-02T23:20:00.000Z",
+    "minutes": null,
+    "level": "A2",
+    "unitNo": 0,
+    "topic": {
+      "en": "",
+      "ar": ""
+    },
+    "notes": null,
+    "status": "scheduled",
+    "joinUrl": "https://meet.google.com/cpu-upqc-fem",
+    "studentName": "Anas Almbark",
+    "tutorName": "Enas Salho",
+    "scheduleId": "sch_muoleeiuv6lg"
+  },
+  {
+    "id": "ses_muoleejq7kbc",
+    "week": 17,
+    "semester": "sem_2026_fall",
+    "startUtc": "2026-12-09T22:20:00.000Z",
+    "endUtc": "2026-12-09T23:20:00.000Z",
+    "minutes": null,
+    "level": "A2",
+    "unitNo": 0,
+    "topic": {
+      "en": "",
+      "ar": ""
+    },
+    "notes": null,
+    "status": "scheduled",
+    "joinUrl": "https://meet.google.com/cpu-upqc-fem",
+    "studentName": "Anas Almbark",
+    "tutorName": "Enas Salho",
+    "scheduleId": "sch_muoleeiuv6lg"
+  },
+  {
+    "id": "ses_muoleejqmal5",
+    "week": 18,
+    "semester": "sem_2026_fall",
+    "startUtc": "2026-12-16T22:20:00.000Z",
+    "endUtc": "2026-12-16T23:20:00.000Z",
+    "minutes": null,
+    "level": "A2",
+    "unitNo": 0,
+    "topic": {
+      "en": "",
+      "ar": ""
+    },
+    "notes": null,
+    "status": "scheduled",
+    "joinUrl": "https://meet.google.com/cpu-upqc-fem",
+    "studentName": "Anas Almbark",
+    "tutorName": "Enas Salho",
+    "scheduleId": "sch_muoleeiuv6lg"
+  },
+  {
+    "id": "ses_muolf20428dh",
+    "week": 7,
+    "semester": "sem_2026_fall",
+    "startUtc": "2026-09-30T21:20:00.000Z",
+    "endUtc": "2026-09-30T22:20:00.000Z",
+    "minutes": null,
+    "level": "A2",
+    "unitNo": 0,
+    "topic": {
+      "en": "",
+      "ar": ""
+    },
+    "notes": null,
+    "status": "scheduled",
+    "joinUrl": "https://meet.google.com/cpu-upqc-fem",
+    "studentName": "Anas Almbark",
+    "tutorName": "Enas Salho",
+    "scheduleId": "sch_muoleeiuv6lg",
+    "joins": [
+      {
+        "by": "student",
+        "atUtc": "2026-09-30T21:19:31.224Z"
+      }
+    ]
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "inc_muojxqvh7zld",
+    "reference": "PA-INC-2026-010",
+    "type": "conduct",
+    "severity": "medium",
+    "pair": "Enas Salho",
+    "status": "open",
+    "createdUtc": "2026-09-30T20:22:35.597Z",
+    "summary": {
+      "en": "bla bla bla",
+      "ar": "bla bla bla"
+    }
+  },
+  {
+    "id": "inc_muojxbko7waz",
+    "reference": "PA-INC-2026-009",
+    "type": "safeguarding",
+    "severity": "low",
+    "pair": "Enas Salho",
+    "status": "open",
+    "createdUtc": "2026-09-30T20:22:15.768Z",
+    "summary": {
+      "en": "Sint nemo placeat e",
+      "ar": "Sint nemo placeat e"
+    }
+  },
+  {
+    "id": "inc_mu78kmti6jsv",
+    "reference": "PA-INC-2026-008",
+    "type": "conduct",
+    "severity": "high",
+    "pair": "Enas Salho",
+    "status": "open",
+    "createdUtc": "2026-09-18T17:32:23.046Z",
+    "summary": {
+      "en": "dfgdfgdfgdfg",
+      "ar": "dfgdfgdfgdfg"
+    }
+  },
+  {
+    "id": "inc_004",
+    "reference": "PA-INC-2026-004",
+    "type": "plagiarism",
+    "severity": "medium",
+    "pair": "Anas Almbark · Enas Salho",
+    "status": "open",
+    "createdUtc": "2026-08-06T10:00:00Z",
+    "summary": {
+      "en": "Submission matches an online source.",
+      "ar": "الواجب يطابق مصدرًا على الإنترنت."
+    }
+  },
+  {
+    "id": "inc_003",
+    "reference": "PA-INC-2026-003",
+    "type": "safeguarding",
+    "severity": "high",
+    "pair": "Rana Khalil · James Porter",
+    "status": "investigating",
+    "createdUtc": "2026-08-01T08:30:00Z",
+    "summary": {
+      "en": "Student disclosed an unsafe home situation.",
+      "ar": "أفصح الطالب عن وضع منزلي غير آمن."
+    }
+  },
+  {
+    "id": "inc_002",
+    "reference": "PA-INC-2026-002",
+    "type": "technical",
+    "severity": "low",
+    "pair": "Yusuf Amin · Marie Dubois",
+    "status": "resolved",
+    "createdUtc": "2026-07-24T16:10:00Z",
+    "summary": {
+      "en": "Repeated connection drops during lessons.",
+      "ar": "انقطاعات متكررة في الاتصال أثناء الدروس."
+    }
+  }
+]

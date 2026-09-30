@@ -1,0 +1,74 @@
+[
+  {
+    "id": "res_1",
+    "title": {
+      "en": "At the clinic — role-play pack",
+      "ar": "في العيادة — حزمة تمثيل أدوار"
+    },
+    "level": "A2",
+    "skill": "speaking",
+    "minutes": 30,
+    "downloads": 214,
+    "bandwidth": "low"
+  },
+  {
+    "id": "res_2",
+    "title": {
+      "en": "Past simple drills",
+      "ar": "تدريبات الماضي البسيط"
+    },
+    "level": "A2",
+    "skill": "grammar",
+    "minutes": 20,
+    "downloads": 389,
+    "bandwidth": "low"
+  },
+  {
+    "id": "res_3",
+    "title": {
+      "en": "Job interview simulation",
+      "ar": "محاكاة مقابلة عمل"
+    },
+    "level": "B1",
+    "skill": "speaking",
+    "minutes": 45,
+    "downloads": 156,
+    "bandwidth": "medium"
+  },
+  {
+    "id": "res_4",
+    "title": {
+      "en": "News listening: 3 short clips",
+      "ar": "استماع إخباري: ٣ مقاطع"
+    },
+    "level": "B2",
+    "skill": "listening",
+    "minutes": 35,
+    "downloads": 98,
+    "bandwidth": "high"
+  },
+  {
+    "id": "res_5",
+    "title": {
+      "en": "Alphabet & phonics starter",
+      "ar": "الأبجدية والصوتيات"
+    },
+    "level": "A1",
+    "skill": "reading",
+    "minutes": 25,
+    "downloads": 501,
+    "bandwidth": "low"
+  },
+  {
+    "id": "res_6",
+    "title": {
+      "en": "Writing a short email",
+      "ar": "كتابة بريد قصير"
+    },
+    "level": "B1",
+    "skill": "writing",
+    "minutes": 30,
+    "downloads": 172,
+    "bandwidth": "low"
+  }
+]

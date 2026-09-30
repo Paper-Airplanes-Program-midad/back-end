@@ -1,0 +1,50 @@
+{
+  "attendanceTrend": [
+    {
+      "week": "W29",
+      "rate": 74
+    },
+    {
+      "week": "W30",
+      "rate": 79
+    },
+    {
+      "week": "W31",
+      "rate": 82
+    },
+    {
+      "week": "W32",
+      "rate": 78
+    },
+    {
+      "week": "W33",
+      "rate": 85
+    },
+    {
+      "week": "W34",
+      "rate": 88
+    },
+    {
+      "week": "W35",
+      "rate": 86
+    }
+  ],
+  "levelDistribution": [
+    {
+      "level": "A1",
+      "students": 18
+    },
+    {
+      "level": "A2",
+      "students": 24
+    },
+    {
+      "level": "B1",
+      "students": 14
+    },
+    {
+      "level": "B2",
+      "students": 7
+    }
+  ]
+}

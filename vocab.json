@@ -1,0 +1,64 @@
+{
+  "stu_001": [
+    {
+      "term": "ييي",
+      "translation": "يييي",
+      "context": "",
+      "source": "أُضيفت يدويًا",
+      "id": "v_muoidu95lxnh",
+      "createdAt": "2026-09-30T19:39:07.242Z",
+      "box": 1,
+      "lastReviewedAt": null
+    },
+    {
+      "term": "ييييي",
+      "translation": "يييي",
+      "context": "",
+      "source": "أُضيفت يدويًا",
+      "id": "v_muoidrjkg5f4",
+      "createdAt": "2026-09-30T19:39:03.728Z",
+      "box": 1,
+      "lastReviewedAt": null
+    },
+    {
+      "term": "Hi",
+      "translation": "مرحبا",
+      "context": "",
+      "source": "أُضيفت يدويًا",
+      "id": "v_muoicvsy3g42",
+      "createdAt": "2026-09-30T19:38:22.594Z",
+      "box": 2,
+      "lastReviewedAt": "2026-09-30T19:38:28.638Z"
+    },
+    {
+      "id": "v_seed_1",
+      "term": "appointment",
+      "translation": "موعد",
+      "context": "I have an appointment at the clinic tomorrow.",
+      "source": "Lesson · Health and the body",
+      "createdAt": "2026-08-12T10:00:00Z",
+      "box": 3,
+      "lastReviewedAt": "2026-09-30T19:38:32.957Z"
+    },
+    {
+      "id": "v_seed_2",
+      "term": "to apply for",
+      "translation": "يتقدّم بطلب",
+      "context": "She applied for a scholarship last month.",
+      "source": "Homework · Writing a short email",
+      "createdAt": "2026-08-13T09:00:00Z",
+      "box": 2,
+      "lastReviewedAt": "2026-09-30T19:38:30.745Z"
+    },
+    {
+      "id": "v_seed_3",
+      "term": "neighbourhood",
+      "translation": "الحي",
+      "context": "Our neighbourhood is quiet in the morning.",
+      "source": "Lesson · Describing places",
+      "createdAt": "2026-08-14T16:30:00Z",
+      "box": 4,
+      "lastReviewedAt": "2026-09-30T19:38:37.230Z"
+    }
+  ]
+}

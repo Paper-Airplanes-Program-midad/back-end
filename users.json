@@ -1,0 +1,90 @@
+[
+  {
+    "id": "stu_001",
+    "role": "student",
+    "name": "Anas Almbark",
+    "email": "anas@paperairplanes.org",
+    "initials": "AA",
+    "timezone": "Asia/Damascus",
+    "passwordHash": "scrypt:bad3d8e37014c97a9ecfc00ad59e9658:cc73e5fe207e47379ecea9bbc2ee425a9fdc1e8f664916dac2a6d63b05607f26544b0363e10c19723342a367526fba36dc5d549f911ce0b18c01d6ceefc9cd0a",
+    "status": "active",
+    "createdUtc": "2026-08-01T09:00:00Z"
+  },
+  {
+    "id": "tut_007",
+    "role": "teacher",
+    "name": "Enas Salho",
+    "email": "enas@paperairplanes.org",
+    "initials": "ES",
+    "timezone": "Europe/London",
+    "passwordHash": "scrypt:bc1e7720b283ed9874c06ebed9ed4085:ac2616d75e03ec281c838b91fd428b8a3df96cfceec88d454f69872fffae6ff8650b2df0340188487ae238aaa85250b41568fc1cc9abe65e812e36e4aff8c54f",
+    "status": "active",
+    "createdUtc": "2026-08-01T09:00:00Z"
+  },
+  {
+    "id": "fac_002",
+    "role": "admin",
+    "name": "Hala Al Mohamad",
+    "email": "hala@paperairplanes.org",
+    "initials": "HA",
+    "timezone": "Europe/London",
+    "passwordHash": "scrypt:b46377093dda7ef08c4b51cd62237572:c3ca331967ea47b0d627c48ad847b7f47c88e79c065eeb16b73ba014408949595bdb2f4caeb70844ae0b460ccdf497e0f37a5575ba0a09f6a51a5b9843402938",
+    "status": "active",
+    "createdUtc": "2026-08-01T09:00:00Z"
+  },
+  {
+    "id": "stu_mtlwj3tbi1gy",
+    "role": "student",
+    "name": "Anas",
+    "email": "anas@gmail.com",
+    "initials": "A",
+    "timezone": "Asia/Damascus",
+    "passwordHash": "scrypt:95c3a5aa73f453c65172d45ec71b994b:2f224f23444f9619b5f6767ba4068c053093fb95db17144437d7f6143e46697edc3cdd80db6f8f785e33df5eb17a0f6c4a8443a183ed8d9e5b6fc442a21de0ae",
+    "status": "active",
+    "createdUtc": "2026-09-03T19:12:06.721Z"
+  },
+  {
+    "id": "stu_mtrh45zqa3vm",
+    "role": "student",
+    "name": "Ali",
+    "email": "anas.almbark0@gmail.com",
+    "initials": "A",
+    "timezone": "Asia/Gaza",
+    "passwordHash": "scrypt:e32ea2dd9f659943a82c71c62ee2decf:029e815051cf8d6271c404f7a527032d39ccd423c3f2517eef63cc2c7a0ccff0e21e71336fee9a602f1c5097af7b7db3ddeb4526a954c7194d72727843d36d81",
+    "status": "suspended",
+    "createdUtc": "2026-09-07T16:47:12.517Z"
+  },
+  {
+    "id": "stu_mtrh4wbdhgeu",
+    "role": "student",
+    "name": "Anas Almbark",
+    "email": "anas.almbark1@gmail.com",
+    "initials": "AA",
+    "timezone": "Asia/Beirut",
+    "passwordHash": "scrypt:ce9e4a999b39d27e9f2c4a690361f809:66f1caeb2e6f3d414bfa5460c984b781a552a0162f716e19eda4b817736ee572151b9934e927f3241637dd55f80d26337f59e1acedb04227088f9d4e5ebaaac4",
+    "status": "active",
+    "createdUtc": "2026-09-07T16:47:46.629Z"
+  },
+  {
+    "id": "stu_mtx9hkzam9mq",
+    "role": "student",
+    "name": "Anas Test",
+    "email": "anas.almbark3@gmail.com",
+    "initials": "AT",
+    "timezone": "Asia/Baghdad",
+    "passwordHash": "scrypt:d6f0f608539f17e037d262265efa06ab:c96816e1cccf3b730f06885c7e3bddb9f738a94dccd6f3f190848de67b329155226e27b7de39ab4024bc4e5b33eae42156f2a2708bacc0c002fc95c95c86970f",
+    "status": "active",
+    "createdUtc": "2026-09-11T18:00:18.596Z"
+  },
+  {
+    "id": "stu_mu8ko8kk1b5x",
+    "role": "student",
+    "name": "ِAnas",
+    "email": "anas.almbark044@gmail.com",
+    "initials": "ِ",
+    "timezone": "Asia/Gaza",
+    "passwordHash": "scrypt:26b50cf95fb0796a7f02020ad12db12a:33f933988fe2f6e2eb5ebe62650a7dae0394ca754de5d56d1fb66bf2f49d83b504f388a44f86f18d5a85c30f8160eee46265905b57165f955234de4be6cb5e2d",
+    "status": "new",
+    "createdUtc": "2026-09-19T15:58:52.815Z"
+  }
+]

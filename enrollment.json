@@ -1,0 +1,84 @@
+{
+  "programType": {
+    "en": "1-on-1 tutoring",
+    "ar": "تدريس فردي"
+  },
+  "cohort": "Summer 2026",
+  "currentLevel": "A2",
+  "levels": [
+    {
+      "code": "A1",
+      "status": "completed",
+      "progress": 100
+    },
+    {
+      "code": "A2",
+      "status": "in_progress",
+      "progress": 55
+    },
+    {
+      "code": "B1",
+      "status": "locked",
+      "progress": 0
+    },
+    {
+      "code": "B2",
+      "status": "locked",
+      "progress": 0
+    }
+  ],
+  "a2Units": [
+    {
+      "id": "cu1",
+      "title": {
+        "en": "Daily routines",
+        "ar": "الروتين اليومي"
+      },
+      "done": true
+    },
+    {
+      "id": "cu2",
+      "title": {
+        "en": "Shopping & money",
+        "ar": "التسوق والمال"
+      },
+      "done": true
+    },
+    {
+      "id": "cu3",
+      "title": {
+        "en": "Travel and directions",
+        "ar": "السفر والاتجاهات"
+      },
+      "done": true
+    },
+    {
+      "id": "cu4",
+      "title": {
+        "en": "Health and the body",
+        "ar": "الصحة والجسم"
+      },
+      "done": false
+    },
+    {
+      "id": "cu5",
+      "title": {
+        "en": "Work and study",
+        "ar": "العمل والدراسة"
+      },
+      "done": false
+    }
+  ],
+  "exams": {
+    "midterm": {
+      "status": "graded",
+      "scheduledAt": "2026-07-20T15:00:00Z",
+      "score": 82
+    },
+    "final": {
+      "status": "scheduled",
+      "scheduledAt": "2026-09-15T15:00:00Z",
+      "score": null
+    }
+  }
+}

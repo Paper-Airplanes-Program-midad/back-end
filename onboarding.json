@@ -1,0 +1,95 @@
+{
+  "applicationStatus": "training",
+  "steps": [
+    {
+      "key": "applied",
+      "label": {
+        "en": "Applied",
+        "ar": "تم التقديم"
+      }
+    },
+    {
+      "key": "under_review",
+      "label": {
+        "en": "Under review",
+        "ar": "قيد المراجعة"
+      }
+    },
+    {
+      "key": "conditionally_accepted",
+      "label": {
+        "en": "Conditional offer",
+        "ar": "قبول مشروط"
+      }
+    },
+    {
+      "key": "training",
+      "label": {
+        "en": "Training",
+        "ar": "التدريب"
+      }
+    },
+    {
+      "key": "waiting_list",
+      "label": {
+        "en": "Waiting list",
+        "ar": "قائمة الانتظار"
+      }
+    },
+    {
+      "key": "matched",
+      "label": {
+        "en": "Matched",
+        "ar": "تمت المطابقة"
+      }
+    }
+  ],
+  "conditional": {
+    "deadline": "2026-09-15T23:59:00Z",
+    "requirements": [
+      {
+        "id": "r1",
+        "label": {
+          "en": "Complete 7 training units",
+          "ar": "إكمال ٧ وحدات تدريبية"
+        },
+        "done": false
+      },
+      {
+        "id": "r2",
+        "label": {
+          "en": "Pass the final training exam (≥70%)",
+          "ar": "اجتياز الاختبار النهائي (٧٠٪+)"
+        },
+        "done": false
+      },
+      {
+        "id": "r3",
+        "label": {
+          "en": "Sign the code of conduct",
+          "ar": "توقيع مدونة السلوك"
+        },
+        "done": true
+      },
+      {
+        "id": "r4",
+        "label": {
+          "en": "Confirm weekly availability",
+          "ar": "تأكيد التفرغ الأسبوعي"
+        },
+        "done": true
+      }
+    ]
+  },
+  "finalExam": {
+    "status": "locked",
+    "scheduledAt": "2026-09-10T14:00:00Z"
+  },
+  "waitingList": {
+    "onList": false,
+    "position": 12,
+    "total": 42,
+    "estimatedWaitWeeks": 3,
+    "cohort": "Autumn 2026"
+  }
+}

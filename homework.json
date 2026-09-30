@@ -1,0 +1,342 @@
+[
+  {
+    "id": "asg_38",
+    "sessionId": "ses_l2a",
+    "title": {
+      "en": "Reading: a job advert",
+      "ar": "قراءة: إعلان وظيفة"
+    },
+    "instructions": {
+      "en": "Read the advert in the PDF and answer the five questions on page 2.",
+      "ar": "اقرأ الإعلان في ملف PDF وأجب عن الأسئلة الخمسة في الصفحة الثانية."
+    },
+    "files": [
+      {
+        "id": "f_38a",
+        "name": "job-advert-A2.pdf",
+        "kind": "pdf",
+        "sizeKb": 480
+      }
+    ],
+    "assignedUtc": "2026-08-29T18:20:00Z",
+    "dueUtc": "2026-09-02T20:00:00Z",
+    "status": "not_started",
+    "maxScore": 100,
+    "score": 89,
+    "feedback": "good",
+    "studentName": "Anas Almbark",
+    "seen": true,
+    "rubric": [
+      {
+        "id": "r1",
+        "criterion": {
+          "en": "Comprehension",
+          "ar": "الفهم"
+        },
+        "max": 60,
+        "points": 56
+      },
+      {
+        "id": "r2",
+        "criterion": {
+          "en": "Written answers",
+          "ar": "الإجابات المكتوبة"
+        },
+        "max": 40,
+        "points": 33
+      }
+    ],
+    "answer": "fhfghfgh",
+    "submittedUtc": null
+  },
+  {
+    "id": "asg_37",
+    "sessionId": "ses_l2a",
+    "title": {
+      "en": "Ten new words",
+      "ar": "عشر كلمات جديدة"
+    },
+    "instructions": {
+      "en": "Pick ten words from the advert, write each one in a sentence about yourself.",
+      "ar": "اختر عشر كلمات من الإعلان، واكتب كل كلمة في جملة عن نفسك."
+    },
+    "files": [],
+    "assignedUtc": "2026-08-29T18:20:00Z",
+    "dueUtc": "2026-09-02T20:00:00Z",
+    "status": "not_started",
+    "maxScore": 100,
+    "score": null,
+    "feedback": null,
+    "studentName": "Anas Almbark",
+    "seen": true,
+    "rubric": [
+      {
+        "id": "r1",
+        "criterion": {
+          "en": "Vocabulary",
+          "ar": "المفردات"
+        },
+        "max": 50,
+        "points": null
+      },
+      {
+        "id": "r2",
+        "criterion": {
+          "en": "Sentences",
+          "ar": "الجمل"
+        },
+        "max": 50,
+        "points": null
+      }
+    ],
+    "answer": null
+  },
+  {
+    "id": "asg_36",
+    "sessionId": "ses_l1b",
+    "title": {
+      "en": "Clinic vocabulary sheet",
+      "ar": "ورقة مفردات العيادة"
+    },
+    "instructions": {
+      "en": "Complete the worksheet — the answers go on the sheet itself.",
+      "ar": "أكمل ورقة العمل — تُكتب الإجابات على الورقة نفسها."
+    },
+    "files": [
+      {
+        "id": "f_36a",
+        "name": "clinic-vocabulary.pdf",
+        "kind": "pdf",
+        "sizeKb": 320
+      }
+    ],
+    "assignedUtc": "2026-08-20T16:10:00Z",
+    "dueUtc": "2026-08-26T20:00:00Z",
+    "status": "not_started",
+    "maxScore": 100,
+    "score": null,
+    "feedback": null,
+    "studentName": "Anas Almbark",
+    "seen": true,
+    "rubric": [
+      {
+        "id": "r1",
+        "criterion": {
+          "en": "Vocabulary",
+          "ar": "المفردات"
+        },
+        "max": 60,
+        "points": null
+      },
+      {
+        "id": "r2",
+        "criterion": {
+          "en": "Task completion",
+          "ar": "إنجاز المهمة"
+        },
+        "max": 40,
+        "points": null
+      }
+    ],
+    "submittedUtc": null
+  },
+  {
+    "id": "asg_35",
+    "sessionId": "ses_l1b",
+    "title": {
+      "en": "Write about your week",
+      "ar": "اكتب عن أسبوعك"
+    },
+    "instructions": {
+      "en": "150–200 words using the past simple.",
+      "ar": "١٥٠–٢٠٠ كلمة باستخدام الماضي البسيط."
+    },
+    "files": [],
+    "assignedUtc": "2026-08-20T16:10:00Z",
+    "dueUtc": "2026-08-26T20:00:00Z",
+    "status": "not_started",
+    "maxScore": 100,
+    "score": null,
+    "feedback": null,
+    "studentName": "Anas Almbark",
+    "seen": true,
+    "rubric": [
+      {
+        "id": "r1",
+        "criterion": {
+          "en": "Grammar",
+          "ar": "القواعد"
+        },
+        "max": 40,
+        "points": null
+      },
+      {
+        "id": "r2",
+        "criterion": {
+          "en": "Vocabulary",
+          "ar": "المفردات"
+        },
+        "max": 30,
+        "points": null
+      },
+      {
+        "id": "r3",
+        "criterion": {
+          "en": "Task completion",
+          "ar": "إنجاز المهمة"
+        },
+        "max": 30,
+        "points": null
+      }
+    ],
+    "submittedUtc": null
+  },
+  {
+    "id": "asg_34",
+    "sessionId": "ses_l0d",
+    "title": {
+      "en": "Directions — voice note",
+      "ar": "الاتجاهات — رسالة صوتية"
+    },
+    "instructions": {
+      "en": "Record two minutes explaining the way from your home to the market.",
+      "ar": "سجّل دقيقتين تشرح فيهما الطريق من بيتك إلى السوق."
+    },
+    "files": [
+      {
+        "id": "f_34a",
+        "name": "example-directions.mp3",
+        "kind": "audio",
+        "sizeKb": 1450
+      }
+    ],
+    "assignedUtc": "2026-08-13T16:05:00Z",
+    "dueUtc": "2026-08-19T20:00:00Z",
+    "status": "not_started",
+    "maxScore": 100,
+    "score": 78,
+    "feedback": "Clear route, good prepositions. Slow down on the long sentences.",
+    "studentName": "Anas Almbark",
+    "seen": true,
+    "rubric": [
+      {
+        "id": "r1",
+        "criterion": {
+          "en": "Pronunciation",
+          "ar": "النطق"
+        },
+        "max": 50,
+        "points": 38
+      },
+      {
+        "id": "r2",
+        "criterion": {
+          "en": "Fluency",
+          "ar": "الطلاقة"
+        },
+        "max": 50,
+        "points": 40
+      }
+    ],
+    "submittedUtc": null
+  },
+  {
+    "id": "asg_33",
+    "sessionId": "ses_l0b",
+    "title": {
+      "en": "Shopping dialogue",
+      "ar": "حوار التسوق"
+    },
+    "instructions": {
+      "en": "Complete the gap-fill dialogue.",
+      "ar": "أكمل الحوار الناقص."
+    },
+    "files": [
+      {
+        "id": "f_33a",
+        "name": "shopping-dialogue.pdf",
+        "kind": "pdf",
+        "sizeKb": 260
+      }
+    ],
+    "assignedUtc": "2026-08-06T16:00:00Z",
+    "dueUtc": "2026-08-12T20:00:00Z",
+    "status": "graded",
+    "maxScore": 100,
+    "score": 86,
+    "feedback": "Great progress on past tense. Watch article usage (a/the).",
+    "studentName": "Anas Almbark",
+    "seen": true,
+    "rubric": [
+      {
+        "id": "r1",
+        "criterion": {
+          "en": "Grammar",
+          "ar": "القواعد"
+        },
+        "max": 40,
+        "points": 34
+      },
+      {
+        "id": "r2",
+        "criterion": {
+          "en": "Vocabulary",
+          "ar": "المفردات"
+        },
+        "max": 30,
+        "points": 26
+      },
+      {
+        "id": "r3",
+        "criterion": {
+          "en": "Task completion",
+          "ar": "إنجاز المهمة"
+        },
+        "max": 30,
+        "points": 26
+      }
+    ]
+  },
+  {
+    "id": "asg_o35",
+    "sessionId": "ses_o2",
+    "title": {
+      "en": "Describe your neighbourhood",
+      "ar": "صف حيّك"
+    },
+    "instructions": {
+      "en": "Record a 2-minute voice note.",
+      "ar": "سجّل رسالة صوتية لدقيقتين."
+    },
+    "files": [],
+    "assignedUtc": "2026-08-27T13:40:00Z",
+    "dueUtc": "2026-09-02T20:00:00Z",
+    "status": "not_started",
+    "maxScore": 100,
+    "score": null,
+    "feedback": null,
+    "studentName": "Omar Nasser",
+    "seen": true,
+    "rubric": [
+      {
+        "id": "r1",
+        "criterion": {
+          "en": "Pronunciation",
+          "ar": "النطق"
+        },
+        "max": 50,
+        "points": null
+      },
+      {
+        "id": "r2",
+        "criterion": {
+          "en": "Fluency",
+          "ar": "الطلاقة"
+        },
+        "max": 50,
+        "points": null
+      }
+    ],
+    "submittedUtc": null
+  }
+]
