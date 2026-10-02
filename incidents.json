@@ -4,7 +4,7 @@
     "reference": "PA-INC-2026-010",
     "type": "conduct",
     "severity": "medium",
-    "pair": "Enas Salho",
+    "pair": "Sarah Ellis",
     "status": "open",
     "createdUtc": "2026-09-30T20:22:35.597Z",
     "summary": {
@@ -17,7 +17,7 @@
     "reference": "PA-INC-2026-009",
     "type": "safeguarding",
     "severity": "low",
-    "pair": "Enas Salho",
+    "pair": "Sarah Ellis",
     "status": "open",
     "createdUtc": "2026-09-30T20:22:15.768Z",
     "summary": {
@@ -30,7 +30,7 @@
     "reference": "PA-INC-2026-008",
     "type": "conduct",
     "severity": "high",
-    "pair": "Enas Salho",
+    "pair": "Sarah Ellis",
     "status": "open",
     "createdUtc": "2026-09-18T17:32:23.046Z",
     "summary": {
@@ -43,7 +43,7 @@
     "reference": "PA-INC-2026-004",
     "type": "plagiarism",
     "severity": "medium",
-    "pair": "Anas Almbark · Enas Salho",
+    "pair": "Layla Haddad · Sarah Ellis",
     "status": "open",
     "createdUtc": "2026-08-06T10:00:00Z",
     "summary": {
